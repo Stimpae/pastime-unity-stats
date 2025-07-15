@@ -1,0 +1,25 @@
+#StatContainerPropertyDrawer .unity-toggle {
+    min-height: 20px;
+    border-width: 1px;
+    border-color: var(--unity-colors-inspector_titlebar-border);
+    padding-left: 5px;
+}
+
+#StatContainerPropertyDrawer .unity-scroll-view {
+    border-top-width: 0;
+    border-right-width: 0;
+    top: -2px;
+    padding-bottom: 0;
+    border-radius: 0;
+}
+
+#StatContainerPropertyDrawer .unity-multi-column-view__cell{
+    justify-content: center;
+    border-right-width: 1px;
+    border-right-color: var(--unity-colors-inspector_titlebar-border);
+}
+
+.stat-label{
+    color: var(--unity-colors-text);
+    padding-left: 8px;
+}

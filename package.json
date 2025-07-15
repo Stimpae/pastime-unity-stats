@@ -1,0 +1,10 @@
+{
+  "name": "com.pastime.stats",
+  "version": "1.0.0",
+  "displayName": "Pastime Stats",
+  "description": "",
+  "unity": "2023.3.15f",
+  "author": {
+    "name": "pastime"
+  }
+}
