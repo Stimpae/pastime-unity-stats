@@ -14,12 +14,13 @@ A flexible and extensible stat system for Unity that provides comprehensive attr
 ## Installation
 
 This can be installed via the Unity Package Manager by adding the following Git URL:
+`https://github.com/Stimpae/pastime-unity-stats.git`
 
 ## Quick Start
 
 ### Creating a Basic Stat
 
-```c#
+``c#
 using Pastime.Stats;
 
 // Create a stat with a base value of 10

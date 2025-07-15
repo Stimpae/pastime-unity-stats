@@ -2,9 +2,9 @@
   "name": "com.pastime.stats",
   "version": "1.0.0",
   "displayName": "Pastime Stats",
-  "description": "",
-  "unity": "2023.3.15f",
+  "description": "A flexible and extensible stat system for Unity that provides comprehensive attribute management with modifier support, configurable application ordering, and range constraints. Perfect for RPGs, roguelikes, and any game requiring complex numerical systems.",
+  "unity": "2023.3",
   "author": {
-    "name": "pastime"
+    "name": "Pastime Games"
   }
 }
