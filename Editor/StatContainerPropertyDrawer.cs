@@ -7,7 +7,6 @@ using System.Reflection;
 using System.Collections.Generic;
 
 namespace Pastime.Stats.Editor {
-    [CustomPropertyDrawer(typeof(IStatContainer<>))]
     [CustomPropertyDrawer(typeof(StatContainer<>))]
     public class StatContainerPropertyDrawer : PropertyDrawer {
         private class StatData {

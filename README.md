@@ -20,7 +20,7 @@ This can be installed via the Unity Package Manager by adding the following Git 
 
 ### Creating a Basic Stat
 
-``c#
+```C#
 using Pastime.Stats;
 
 // Create a stat with a base value of 10
