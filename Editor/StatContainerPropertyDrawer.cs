@@ -11,7 +11,6 @@ namespace Pastime.Stats.Editor {
     public class StatContainerPropertyDrawer : PropertyDrawer {
         private class StatData {
             public string Name { get; set; }
-            
             public float InitialValue { get; set; }
             public float BaseValue { get; set; }
             public float CurrentValue { get; set; }
